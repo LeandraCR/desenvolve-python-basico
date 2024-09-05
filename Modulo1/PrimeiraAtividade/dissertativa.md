@@ -11,7 +11,7 @@
   4. Somamos o resultado da multiplicação acima com o segundo dígito (unidade).
 
 *Saída (Impressão do Resultado):*
-- Exibimos o resultado final que é o produto de 9 x n.
+- O resultado final que é o produto de 9 x n.
 
 *Exemplo:*
 Se n = 4:
